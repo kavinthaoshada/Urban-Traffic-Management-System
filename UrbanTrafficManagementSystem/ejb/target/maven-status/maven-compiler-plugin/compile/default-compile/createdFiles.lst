@@ -1,0 +1,3 @@
+com\assignment\bcd\impl\IOTDataBean.class
+com\assignment\bcd\remote\IOTData.class
+com\assignment\bcd\message\IOTDataReceiver.class
